@@ -17,6 +17,7 @@
 		FFE37C312981024900A08398 /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE37C302981024900A08398 /* Bundle-Decodable.swift */; };
 		FFE37C332981079900A08398 /* Mission.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE37C322981079900A08398 /* Mission.swift */; };
 		FFE37C3529811C9500A08398 /* ColorTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE37C3429811C9500A08398 /* ColorTheme.swift */; };
+		FFE37C372982ADAB00A08398 /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE37C362982ADAB00A08398 /* MissionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		FFE37C302981024900A08398 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
 		FFE37C322981079900A08398 /* Mission.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mission.swift; sourceTree = "<group>"; };
 		FFE37C3429811C9500A08398 /* ColorTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorTheme.swift; sourceTree = "<group>"; };
+		FFE37C362982ADAB00A08398 /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				FFE37C302981024900A08398 /* Bundle-Decodable.swift */,
 				FFE37C322981079900A08398 /* Mission.swift */,
 				FFE37C3429811C9500A08398 /* ColorTheme.swift */,
+				FFE37C362982ADAB00A08398 /* MissionView.swift */,
 			);
 			path = MoonMission;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFE37C372982ADAB00A08398 /* MissionView.swift in Sources */,
 				FFE37C2F298101F200A08398 /* Astronaut.swift in Sources */,
 				FFE37C1F2980FD9E00A08398 /* ContentView.swift in Sources */,
 				FFE37C1D2980FD9E00A08398 /* MoonMissionApp.swift in Sources */,
